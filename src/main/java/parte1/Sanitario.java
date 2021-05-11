@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package parte1;
-
+//Hola wenas
 import java.util.Random;
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
